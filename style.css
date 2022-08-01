@@ -9,7 +9,7 @@ h1 {
     font-size: 50px;
 }
 h3 {
-    font-size: 35px;
+    font-size: 30px;
 }
 span {
     color: #f9004d;
@@ -90,3 +90,16 @@ section {
     text-align: center;
     opacity: 90%;
  }
+.last{
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #f9004d;
+    width: 50%;
+    margin: 5rem auto;
+    color: white;
+    padding: 2rem 0;
+}
+footer{
+    text-align: center;
+    margin-bottom: 2rem;
+}

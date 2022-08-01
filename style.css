@@ -56,6 +56,7 @@ section {
     display: flex;
     background-image: url(./personal-website/biography-bg.png);
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .box-2 img {
@@ -70,3 +71,22 @@ section {
     margin-top: 9rem;
     margin-left: 15rem;
 }
+.container3{
+    background-image: url(./personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+ .box-4{
+    text-align: center;
+ }
+ .latest{
+    display: flex;
+    justify-content: center;
+ }
+ .latest img{
+    width: 30%;
+ }
+ .foot{
+    text-align: center;
+    opacity: 90%;
+ }
